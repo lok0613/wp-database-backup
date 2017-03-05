@@ -1,0 +1,6 @@
+{
+	"name": "lok0613/wp-database-backup",
+	"require": {
+        "coyl/git": "0.1.6"
+    }
+}
